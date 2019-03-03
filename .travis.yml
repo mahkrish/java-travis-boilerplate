@@ -1,0 +1,9 @@
+language: java
+sudo: required
+dist: xenial
+jdk: oraclejdk11
+os: linux
+
+script:
+  - sudo chmod u+x buildpointer
+  - ./buildpointer

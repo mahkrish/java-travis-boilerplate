@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd "JavaCourse/Practice/Hello";
+sudo chmod u+x buildall
+./buildall

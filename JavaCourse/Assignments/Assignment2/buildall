@@ -1,0 +1,6 @@
+#!/bin/bash
+javac --version
+java --version
+javac HelloWorld.java
+java HelloWorld
+sudo rm HelloWorld.class
