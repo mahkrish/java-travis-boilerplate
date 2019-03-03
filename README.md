@@ -1,5 +1,5 @@
 # java-travis-boilerplate
-Java Boilerplate Repository for students willing to simplify their workflows and integrates well with Travis CI.
+Java Boilerplate Repository that integrates well with Travis CI.
 
 ## How to use?
 - Clone this repository
