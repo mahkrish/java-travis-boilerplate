@@ -1,4 +1,4 @@
-# java-travis-boilerplate
+# java-travis-boilerplate [![Build Status](https://travis-ci.org/mahkrish/java-travis-boilerplate.svg?branch=master)](https://travis-ci.org/mahkrish/java-travis-boilerplate)
 Java Boilerplate Repository that integrates well with Travis CI.
 
 ## How to use?
